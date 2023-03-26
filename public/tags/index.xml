@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Portio</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on Portio</description>
+    <title>Tags on Teremok</title>
+    <link>https://teremok-dogcare.github.io/teremok-dogcare/tags/</link>
+    <description>Recent content in Tags on Teremok</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="https://teremok-dogcare.github.io/teremok-dogcare/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>website</title>
-      <link>http://example.org/tags/website/</link>
+      <link>https://teremok-dogcare.github.io/teremok-dogcare/tags/website/</link>
       <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
       
-      <guid>http://example.org/tags/website/</guid>
+      <guid>https://teremok-dogcare.github.io/teremok-dogcare/tags/website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mobile</title>
-      <link>http://example.org/tags/mobile/</link>
+      <link>https://teremok-dogcare.github.io/teremok-dogcare/tags/mobile/</link>
       <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
       
-      <guid>http://example.org/tags/mobile/</guid>
+      <guid>https://teremok-dogcare.github.io/teremok-dogcare/tags/mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fun</title>
-      <link>http://example.org/tags/fun/</link>
+      <link>https://teremok-dogcare.github.io/teremok-dogcare/tags/fun/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>http://example.org/tags/fun/</guid>
+      <guid>https://teremok-dogcare.github.io/teremok-dogcare/tags/fun/</guid>
       <description></description>
     </item>
     

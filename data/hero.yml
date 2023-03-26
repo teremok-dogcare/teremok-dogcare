@@ -2,12 +2,11 @@
 enable: true
 topTitle: Hello, I am Irina
 content: >
-  # I am here for your personal business
+  # I am here for your dog care needs
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
+  Grooming, hygiene, pet sitting services
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/mama.jpg
-videoThumb: images/hero/popup-thumb.png
+videoThumb: 
 videoURL: 
